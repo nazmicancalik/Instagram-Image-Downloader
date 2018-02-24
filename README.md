@@ -2,7 +2,7 @@
 A chrome extension which lets you download images from Instagram with the highest quality possible.
 * Uses vanilla html,css and javascript.<br/>
 
-<img src="https://raw.githubusercontent.com/nazmicancalik/Instagram-Image-Downloader/master/downloader.gif" width="680" height="350" />
+<img src="https://raw.githubusercontent.com/nazmicancalik/Instagram-Image-Downloader/master/downloader.gif" width="520" height="420" />
 
 ## Installation 
 * First clone or download the project.<br/>
